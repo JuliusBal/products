@@ -7,5 +7,6 @@
 4. cp .env.example .env (enter your DB credentials)
 5. php artisan key:generate
 6. php artisan migrate
-7. php artisan serve
-8. php artisan db:seed
+7. php artisan db:seed
+8. npm run build
+9. php artisan serve
